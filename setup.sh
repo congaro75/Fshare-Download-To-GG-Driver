@@ -4,3 +4,5 @@
 apt update
 pip3 install -r requirements.txt &>/dev/null
 pip3 install --upgrade requests
+mv -v * ../
+
